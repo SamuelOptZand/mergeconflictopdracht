@@ -75,7 +75,7 @@ git merge feature
 ```
 ### regel nummers:
 - string 1 = Toward those short trees
-- string 2 = We saw a hawk descending
+- string 2 = In the beautiful mountains
 - string 3 = On a day in spring.
 
 
