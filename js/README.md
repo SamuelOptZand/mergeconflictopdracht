@@ -74,7 +74,7 @@ git merge feature
 ["Toward those short trees","We saw a hawk descending","On a day in spring."]
 ```
 ### regel nummers:
-- string 1 = Toward those short trees
+- string 1 = Toward those green trees
 - string 2 = In the beautiful mountains
 - string 3 = On a day in spring.
 

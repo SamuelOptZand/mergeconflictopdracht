@@ -10,6 +10,13 @@ function basicHaiku()
 }
 //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
+function student2Haiku(){
+    console.log("Don't sweep insects");
+    console.log("Lovers, stars themselves");
+    console.log("Must part");
+
+}
+
 haikus = [
     basicHaiku()
 ]
