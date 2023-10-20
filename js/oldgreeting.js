@@ -1,6 +1,6 @@
  function greet()
 {
-    let greeting="hello welcome to this exersise!";
+    let greeting="Welcome!";
     console.log(greeting);
 }
 
