@@ -29,4 +29,8 @@ function start()
 
 }
 
+function student1Haiku() {
+    console.log("Over the wintry forest,\nwinds howl in rage \nwith no leaves to blow");
+}
+
 start()
